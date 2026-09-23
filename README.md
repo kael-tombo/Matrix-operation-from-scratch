@@ -11,7 +11,15 @@
 
 ## 📌 Executive Summary
 
-> *That is a strong foundation: your 2017 C program already covers core linear-algebra operations, from basic matrix arithmetic to eigenvalues, diagonalization, triangularization, and linear-system solving.*
+Matrix Operations from Scratch
+This project is a simple C program created in 2017 during my second year of the Bachelor in Computer Science at the University of Toamasina (MIA). It was built as an educational exercise to better understand matrix operations and basic linear algebra concepts.
+
+The goal was not to build a professional numerical library, but to practice:
+
+dynamic memory allocation in C,
+matrix manipulation,
+algorithm implementation,
+and console-based interaction.
 
 This repository contains a pure **C** linear-algebra suite written from scratch without any external numerical dependencies (such as LAPACK, BLAS, or Eigen). Built upon classical matrix theory and numerical analysis, it provides both direct and iterative algorithms, interactive terminal workflows, and custom dynamic data structures for tracking spectral decomposition and convergence.
 
