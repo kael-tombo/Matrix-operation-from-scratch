@@ -1,0 +1,24 @@
+# Build artifacts and directories
+bin/
+obj/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.cbp
+*.layout
+*.depend
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+*.log
